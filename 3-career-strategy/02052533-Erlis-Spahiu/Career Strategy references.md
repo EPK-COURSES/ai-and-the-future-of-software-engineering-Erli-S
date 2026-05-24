@@ -1,0 +1,4 @@
+1.	Bakajac, D. (2025). The Impact of AI on Skill Development and Career Progression in Software Engineering (Doctoral dissertation, Technische Universität Wien).
+2.	Parasa, M. (2023). Optimizing career mobility and development using AI-powered path mapping tools within SAP SuccessFactors career development module. International Journal of Science Engineering and Technology, 11.
+3.	Yusuf, S. O., Abubakar, J. E., Durodola, R. L., Ocran, G., Paul-Adeleye, A. H., & Yusuf, P. O. (2024). Impact of AI on continuous learning and skill development in the workplace: A comparative study with traditional methods. World Journal of Advanced Research and Reviews, 23(2), 1129-1140.
+4.	Barua, R., Ghosh, S. K., Rahman, M. N., Biswas, K. C., & Haque, M. S. (2025). Optimizing Software Engineering Careers: Hiring, Retention, and Workforce Development. Journal Of Creative Writing (ISSN-2410-6259), 9(1), 49-65.
