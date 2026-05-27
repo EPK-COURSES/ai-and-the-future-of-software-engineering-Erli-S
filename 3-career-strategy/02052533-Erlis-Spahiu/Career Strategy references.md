@@ -6,3 +6,4 @@
 6.	Mylsamy, S., & Kumar, S. (2025). Mentorship And Career Development For Software Engineers: Best Practices Developing Software Engineers.
 7.	Majanoja, A. M., Hakkala, A., Virtanen, S., & Leppänen, V. (2023, June). Motivation for continuous software engineering expertise development through lifelong learning. In Proceedings of the 19th International CDIO Conference, hosted by NTNU, Trondheim, Norway.
 8.	Rodrigues da Fonseca, L., Silva, M. R., Silva, S. W., & Pereira, G. M. (2019). Continuous-Learning Work Environment: A Study with Developers in Software Development Organizations. Knowledge Management & E-Learning, 11(3), 281-303.
+9.	Cosden, I. A., Holtz, E., & Bretheim, J. U. (2026). Designing and implementing a comprehensive research software engineer career ladder: A case study from princeton university. Future Generation Computer Systems, 108574.
